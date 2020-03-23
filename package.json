@@ -10,7 +10,7 @@
   "license": "Included in Repo",
   "dependencies": {
     "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-env": "^7.9.0",
     "chai": "^4.2.0",
     "file-system": "^2.2.2",
     "jsdom": "^9.0",
